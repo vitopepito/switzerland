@@ -1,10 +1,10 @@
-# Switzerland
+# a small guide
 
 There are four areas in Switzerland which are a bit different.
-- the north: cities like bern, lucerne, basel, zurich. this is where most people live, so if you are looking for culture, design, etc, be in the city. all of them have an old town as well, which can be quite picturesque.
-- the west: this is the french speaking part. geneva and lausanne are the big towns. Especially lac leman (lake leman) is very beautiful with many vineyards.
-- the south: the italian speaking part. this area is much more mediterranean, with palm trees etc.
-- in the middle and east are the Alps. There are many places to go hiking, small lakes up high, cable cars, small farmer towns
+- __the north:__ cities like bern, lucerne, basel, zurich. this is where most people live, so if you are looking for culture, design, etc, be in the city. all of them have an old town as well, which can be quite picturesque.
+- __the west:__ this is the french speaking part. geneva and lausanne are the big towns. Especially lac leman (lake leman) is very beautiful with many vineyards.
+- __the south:__ the italian speaking part. this area is much more mediterranean, with palm trees etc.
+- in __the middle__ and east are the Alps. There are many places to go hiking, small lakes up high, cable cars, small farmer towns
 
 It would certainly be nice to do a bit of everything, since train connections are good and it doesn't take very long. Travelling inside Switzerland can be a bit expensive though.
 
